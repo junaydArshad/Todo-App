@@ -1,7 +1,7 @@
 
 import Todos from "./components/Todos"
 import './App.css'
-import AddTodo from "./components/Addtodo"
+import AddTodo from "./components/AddTodo"
 
 function App() {
   
